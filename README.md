@@ -1,9 +1,9 @@
 
 # Ozain Parser
-    Simple function to parse USFM files in **chapter-verse structure**.
-    This function remove all formmating markdowns and preseves only text of file.
-    The text will be organized in a dict, with chapter -> verse levels and remove all others markdowns.
-    Some metadata (file_encoding, usfm_version etc) will be returned in the dict.
+Simple function to parse USFM files in **chapter-verse structure**.
+This function remove all formmating markdowns and preseves only text of file.
+The text will be organized in a dict, with chapter -> verse levels and remove all others markdowns.
+Some metadata (file_encoding, usfm_version etc) will be returned in the dict.
 
 ## Example
 Get the 9º verse of chapter 137 in Psalms.txt file.
