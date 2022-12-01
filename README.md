@@ -14,16 +14,9 @@ Get the 9º verse of chapter 137 in Psalms.txt file.
 Will return:
 > **Happy is the one who takes your babies and smashes them against the rocks!**
 
-USFM is a standart markdown for digital versions of Bible in diffent languages.
-Organized by United Bible Societies, the USFM format is a attempt to unify the digital format for Bible texts in a single markdown.
+    USFM is a standart markdown for digital versions of Bible in diffent languages.
+    Organized by United Bible Societies, the USFM format is a attempt to unify the digital format for Bible texts in a single markdown.
 
-for more information, see: https://paratext.org/usfm/
-THis Lib is recommended for simplified versions (usfm-s)
-
-Parameters:
-usfm_file -> str:
-    Location of text file
-
-Return:
-    dict
+    for more information, see: https://paratext.org/usfm/
+    THis Lib is recommended for simplified versions (usfm-s)
 
