@@ -1,7 +1,7 @@
 
 # Ozain Parser
 Simple function to parse USFM files in **chapter-verse structure**.
-This function remove all formmating markdowns and preseves only text of file.
+This function removes all formatting markdowns and preserves only text of file.
 The text will be organized in a dict, with chapter -> verse levels and remove all others markdowns.
 Some metadata (file_encoding, usfm_version etc) will be returned in the dict.
 
@@ -14,8 +14,8 @@ Get the 9º verse of chapter 137 in Psalms.txt file.
 Will return:
 > **Happy is the one who takes your babies and smashes them against the rocks!**
 
-    USFM is a standart markdown for digital versions of Bible in diffent languages.
-    Organized by United Bible Societies, the USFM format is a attempt to unify the digital format for Bible texts in a single markdown.
+    USFM is a standard markdown for digital versions of the Bible in different languages.
+    Organized by United Bible Societies, the USFM format is an attempt to unify the digital format for Bible texts in a single markdown.
 
     for more information, see: https://paratext.org/usfm/
     THis Lib is recommended for simplified versions (usfm-s)
