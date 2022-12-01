@@ -53,6 +53,15 @@ def parser(usfm_file) -> dict:
                         text = text[1:]
                     usfm_obj[c][v] = text
                     pass
+
+                if mark == "\\q2":
+                    text = line.replace("\\q2","").replace("\n","")
+                    text = text.replace(f"{v} ","")
+                    text = remove_markdown(text)
+                    if text[0] == " ":
+                        text = text[1:]
+                    usfm_obj[c][v] += text # append q2 in last verse
+                    
                 
                 if mark == "\\id":
                     usfm_obj["file_id"] = line.replace(f"{mark} ","").replace("\n","")
