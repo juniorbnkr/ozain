@@ -14,9 +14,14 @@ Get the 9º verse of chapter 137 in Psalms.txt file.
 Will return:
 > **Happy is the one who takes your babies and smashes them against the rocks!**
 
+
+
     USFM is a standard markdown for digital versions of the Bible in different languages.
     Organized by United Bible Societies, the USFM format is an attempt to unify the digital format for Bible texts in a single markdown.
 
     for more information, see: https://paratext.org/usfm/
     THis Lib is recommended for simplified versions (usfm-s)
+
+<sub> * Ozain is one of the deities of the Yoruba religion. In the Santería syncretizes with San Silvestre. Michael the Archangel.        It is also known as Ossanhe or Ossanha in Afro-Brazilian cults. Can be written as (Ozain, Osain, Osain, Ossain, Ossain,     Osanyin, Ossaniyn, Ossain or Ossain)
+</sub>
 
