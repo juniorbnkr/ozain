@@ -22,6 +22,7 @@ Will return:
     for more information, see: https://paratext.org/usfm/
     THis Lib is recommended for simplified versions (usfm-s)
 
-<sub> * Ozain is one of the deities of the Yoruba religion. In the Santería syncretizes with San Silvestre. Michael the Archangel.        It is also known as Ossanhe or Ossanha in Afro-Brazilian cults. Can be written as (Ozain, Osain, Osain, Ossain, Ossain,     Osanyin, Ossaniyn, Ossain or Ossain)
+<sub> * Ozain is one of the orishas of the Yoruba religion. This deity, in the Santería, syncretizes with Michael the Archangel. It's s the orisha of sacred leaves, medicinal and liturgical herbs. No ceremony can be performed without your interference. Its priest is the Baba ewe or Babalossaim.
+It is also known as Ossanhe or Ossanha in Afro-Brazilian cults. Can be written as (Ozain, Osain, Osain, Ossain, Ossain,     Osanyin, Ossaniyn, Ossain or Ossain)
 </sub>
 
